@@ -1,6 +1,5 @@
 # General-Election-Poll-Analysis
 
-Project Title: General Election Poll Analysis
 
 The "General Election Poll Analysis" project is a thorough investigation into polling data related to general elections, encompassing key features such as start date, end date, state, pollster, FTE grade, sample size, population, Clinton's support, Trump's support, and the Democratic lead.
 
